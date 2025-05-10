@@ -1,5 +1,5 @@
 [project]
-name = "xbook"
+name = "aibook"
 version = "0.0.2"
 description = "道法自然"
 authors = [
@@ -16,7 +16,7 @@ dependencies = [
 ]
 
 [project.urls]
-Home = "https://github.com/xinetzone/xbook"
+Home = "https://github.com/xinetzone/aibook"
 
 [project.optional-dependencies]
 doc = [

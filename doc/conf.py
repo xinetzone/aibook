@@ -10,7 +10,7 @@ sys.path.extend([str(ROOT/'doc')])
 from utils.links import icon_links
 
 # == Project 信息 =====================================================================================
-project = 'xbook' # 项目名称
+project = 'aibook' # 项目名称
 author = 'xinetzone' # 文档的作者
 copyright = '2021, xinetzone' # 版权信息
 
